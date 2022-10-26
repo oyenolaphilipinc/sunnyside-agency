@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+html{
+    font-size: 62.5%;
+    --red:  hsl(7, 99%, 70%);
+    --yellow: hsl(51, 100%, 49%);
+    --cyan: hsl(167, 40%, 24%);
+    --blue: hsl(198, 62%, 26%);
+    --dark-cyan: hsl(168, 34%, 41%);
+    --light-cyan: hsl(168, 54%, 67%);
+
+    --dark-blue:hsl(180, 1%, 28%);
+    --dark-very-grayish-blue: hsl(213, 9%, 39%);
+    --dark-grayish-blue: hsl(232, 10%, 55%);
+    --grayish-blue:hsl(210, 4%, 67%);
+    --white:hsl(0, 0%, 100%); 
+}
+body{
+    font-size: 1.8rem;
+    font-family: 'Barlow', sans-serif;
+    
+}
+
+h1,h2,h3{
+    font-family: 'Fraunces', serif;
+}
